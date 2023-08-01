@@ -3,10 +3,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>影城</title>
+<title>後台</title>
 <link rel="stylesheet" href="css/css.css">
 <link href="Manage Page_files/s2.css" rel="stylesheet" type="text/css">
-<script src="scripts/jquery-1.9.1.min.js"></script>
+<script src="./js/jquery-1.9.1.min.js"></script>
 </head>
 
 <body>
